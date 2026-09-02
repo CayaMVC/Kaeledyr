@@ -1,0 +1,29 @@
+img {
+  border-radius: 10px;
+}
+
+p {
+  width: 700px;
+  font-size: 20px;
+}
+
+h1 {
+  color: #1a008d;
+  font-family: Futura, sans-serif;
+  font-size: 60px;
+}
+
+h2,
+h3 {
+  font-family: Futura, sans-serif;
+  color: #1a008d;
+}
+
+.black-border {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.small-text {
+  font-size: 10px;
+}
