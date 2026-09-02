@@ -1,9 +1,19 @@
+/*************** Reset *********************/
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 img {
   border-radius: 10px;
 }
 
 p {
-  width: 700px;
   font-size: 20px;
 }
 
@@ -26,4 +36,8 @@ h3 {
 
 .small-text {
   font-size: 10px;
+}
+
+.background {
+  background-color: #ecd5aa;
 }
